@@ -4,3 +4,7 @@ build
 devel
 
 profile.tmp
+ros/src/CMakeLists.txt
+set_git.sh
+uWebSockets/
+win_sys_int/
